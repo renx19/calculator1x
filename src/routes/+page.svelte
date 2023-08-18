@@ -201,6 +201,10 @@ main>div{
     animation-duration:1000ms;
 }
 
+.m3_footer {
+    font-size: var(--font-s3);
+}
+
 .m3_body{
     grid-column: 1/2;
     grid-row: 2/3;
