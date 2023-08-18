@@ -199,9 +199,6 @@ main>div{
     border:1px double black;
     animation-name: show;
     animation-duration:1000ms;
-}
-
-.m3_footer {
     font-size: var(--font-s3);
 }
 
